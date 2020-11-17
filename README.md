@@ -1,4 +1,4 @@
-# Bad words/`README.md`
+# Bad words / `README.md`
 Visit `Bad Words/license/license.md` [(or click here)](https://repl.it/@NovawareTech/Bad-words#license/license.md) to view the license. 
 
 ### Summary
